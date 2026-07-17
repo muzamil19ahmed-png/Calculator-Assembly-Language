@@ -46,18 +46,18 @@ This project implements a basic calculator in **x86 Assembly Language** as part 
 ## 📁 Project Structure
 
 
-Calculator-Assembly-Language/
-│
-├── src/
-│   └── calculator.asm          # Source code
-│
-├── docs/
-│   ├── Report.pdf              # Project report
-│   └── Demo Presentation.pptx  # Demo presentation
-│
-├── screenshots/                # Screenshots
-├── README.md
-└── LICENSE
+## 📁 Project Structure
+
+| File/Folder | Description |
+|-------------|-------------|
+| `src/` | Source code folder |
+| `src/calculator.asm` | Main assembly source code |
+| `docs/` | Documentation folder |
+| `docs/Report.pdf` | Project report |
+| `docs/Demo Presentation.pptx` | Demo presentation |
+| `screenshots/` | Screenshots folder |
+| `README.md` | Project overview |
+| `LICENSE` | MIT License |
 
 
 ---
