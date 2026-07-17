@@ -1,0 +1,20 @@
+# Compiled files
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.map
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
