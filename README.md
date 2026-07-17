@@ -47,13 +47,13 @@ This project implements a basic calculator in **x86 Assembly Language** as part 
 Calculator-Assembly-Language/
 │
 ├── src/
-│ └── calculator.asm # Source code
+│   └── calculator.asm          # Source code
 │
 ├── docs/
-│ ├── Report.pdf # Project report
-│ └── Demo Presentation.pptx # Demo presentation
+│   ├── Report.pdf              # Project report
+│   └── Demo Presentation.pptx  # Demo presentation
 │
-├── screenshots/ # Screenshots
+├── screenshots/                # Screenshots
 ├── README.md
 └── LICENSE
 
